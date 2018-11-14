@@ -8,3 +8,7 @@ Get an API key here: https://cloud.google.com/translate/docs/
 Also works without an API key.
 
 [![Screenshot](screenshot.png)]
+
+## Installation
+
+color-short.png must be in the same folder/directory as burpelfish.py
