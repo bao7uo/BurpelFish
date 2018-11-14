@@ -326,8 +326,8 @@ class MenuFactory(IContextMenuFactory):
 
 class BurpExtender(IBurpExtender):
 
-    extension_name = 'BurpelFish'
-    extension_version = '0.03'
+    extension_name = 'BurpelFish by @bao7uo'
+    extension_version = '0.04'
 
     def registerExtenderCallbacks(self, callbacks):
 
