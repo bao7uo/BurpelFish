@@ -1,10 +1,23 @@
 #!/usr/bin/python
 
+# If you want to hardcode your Google Cloud Translation API key - initialise the key variable with it:
+# key = 'YOUR_API_KEY'
+key = ''
+
 # BurpelFish
 # Copyright (c) 2018 Paul Taylor @bao7uo
 
-# Hardcoded Google Cloud Translation API key goes here:
-key = ''
+#Licensed under the Apache License, Version 2.0 (the "License");
+#you may not use this file except in compliance with the License.
+#You may obtain a copy of the License at
+#
+#    http://www.apache.org/licenses/LICENSE-2.0
+#
+#Unless required by applicable law or agreed to in writing, software
+#distributed under the License is distributed on an "AS IS" BASIS,
+#WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#See the License for the specific language governing permissions and
+#limitations under the License.
 
 import inspect
 import json
@@ -15,7 +28,6 @@ from java.net import URL, URI
 from thread import start_new_thread
 from javax.swing import JMenu, JMenuItem, JCheckBoxMenuItem, JOptionPane, JLabel
 from burp import IBurpExtender, IHttpRequestResponse, IResponseInfo, IContextMenuFactory, IContextMenuInvocation
-
 
 # Some languages have been removed to reduce the size of the menu. If your language isn't one of the defaults it is only because I personally probably won't use it any time soon. Please feel free to enable it for your self :-)
 
