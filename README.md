@@ -7,7 +7,7 @@ Adds Google Translate to Burp's Context Menu. For testing web apps in other lang
 
 - Also works without an API key.
 
-[![Screenshot](screenshot.png)]
+[![Screenshot](burpelfish-screenshot.png)]
 
 ## Requirements
 - Configure Burp Extender Python Environment (Jython standalone Jar)
