@@ -6,3 +6,5 @@ Adds Google Translate to Burp's Context Menu. For testing web apps in other lang
 Get an API key here: https://cloud.google.com/translate/docs/
 
 Also works without an API key.
+
+[![Screenshot](screenshot.png)]
