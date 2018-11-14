@@ -3,9 +3,9 @@
 
 Adds Google Translate to Burp's Context Menu. For testing web apps in other languages.
 
-Get an API key here: https://cloud.google.com/translate/docs/
+- Get an API key here: https://cloud.google.com/translate/docs/
 
-Also works without an API key.
+- Also works without an API key.
 
 [![Screenshot](screenshot.png)]
 
@@ -14,7 +14,7 @@ Also works without an API key.
 - Supports Windows, Linux and Mac
 
 ## Installation
-color-short.png must be in the same folder/directory as burpelfish.py
+- color-short.png must be in the same folder/directory as burpelfish.py
 
 ## Contribute
 Contributions, feedback and ideas will be appreciated.
