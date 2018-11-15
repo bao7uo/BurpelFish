@@ -1,7 +1,7 @@
 # BurpelFish Translator
 [![Language](https://img.shields.io/badge/Lang-Python-blue.svg)](https://www.python.org)
 
-Adds Google Translate to Burp's Context Menu. "BabelFish" language translation for testing apps in other languages.
+This Burp Extension adds Google Translate to Burp's Context Menu. "BabelFish" language translation for testing apps in other languages.
 
 - Get an API key here: https://cloud.google.com/translate/docs/
 
